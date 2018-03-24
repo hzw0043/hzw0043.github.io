@@ -1,0 +1,33 @@
+@charset "utf-8";
+
+.container-fluid .navbar-header .navbar-brand {
+	font-family: AvantGarde-Book;
+	font-weight: bold;
+	font-style: normal;
+}
+.container-fluid .navbar.navbar-default {
+	background-color: rgba(255,255,255,0.00);
+	border-style: none;
+	border-width: 0px;
+	margin-top: 50px;
+}
+.container-fluid #defaultNavbar1 .nav.navbar-nav.navbar-right {
+	font-family: AvantGarde-Book;
+	font-size: medium;
+	font-variant: normal;
+}
+#rapper .issuuembed {
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 200px;
+	margin-bottom: auto;
+}
+
+#rapper {
+	padding-left: 0px;
+	padding-right: 0px;
+	width: 75%;
+	margin-left: auto;
+	margin-right: auto;
+	max-width: 1080px;
+}

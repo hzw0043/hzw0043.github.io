@@ -1,0 +1,67 @@
+@charset "utf-8";
+
+.container-fluid .navbar-header .navbar-brand {
+	font-family: AvantGarde-Book;
+	font-weight: bold;
+	font-style: normal;
+}
+.container-fluid .navbar.navbar-default {
+	background-color: rgba(255,255,255,0.00);
+	border-style: none;
+	border-width: 0px;
+	margin-top: 50px;
+}
+.container-fluid #defaultNavbar1 .nav.navbar-nav.navbar-right {
+	font-family: AvantGarde-Book;
+	font-size: medium;
+	font-variant: normal;
+}
+#rapper h1 {
+	font-family: AvantGarde-Book;
+	font-weight: lighter;
+	font-size: x-large;
+}
+h1, h2, h3, p {
+	padding-left: 15px;
+	padding-right: 35px;
+}
+
+#rapper h3 {
+	font-family: AvantGarde-Book;
+	font-size: medium;
+	font-weight: normal;
+}
+#rapper h2 {
+	font-family: AvantGarde-Book;
+	font-size: medium;
+	font-weight: bold;
+}
+#rapper article p {
+	font-family: "Calibri Light";
+	font-style: normal;
+	font-weight: normal;
+	font-size: medium;
+	text-align: left;
+	max-width: 1080px;
+	margin-left: auto;
+	margin-right: auto;
+	width: 100%;
+}
+
+
+
+
+#rapper .issuuembed {
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 50px;
+}
+
+#rapper {
+	padding-left: 0px;
+	padding-right: 0px;
+	width: 75%;
+	margin-left: auto;
+	margin-right: auto;
+	max-width: 1080px;
+}

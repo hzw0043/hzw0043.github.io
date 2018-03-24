@@ -1,0 +1,60 @@
+@charset "utf-8";
+
+.container-fluid .navbar-header .navbar-brand {
+	font-family: AvantGarde-Book;
+	font-weight: bold;
+	font-style: normal;
+}
+.container-fluid .navbar.navbar-default {
+	background-color: rgba(255,255,255,0.00);
+	border-style: none;
+	border-width: 0px;
+	margin-top: 50px;
+}
+.container-fluid #defaultNavbar1 .nav.navbar-nav.navbar-right {
+	font-family: AvantGarde-Book;
+	font-size: medium;
+	font-variant: normal;
+}
+
+.img-fill {
+	width: 100%;
+	margin-top: auto;
+	margin-right: auto;
+	margin-bottom: auto;
+	margin-left: auto;
+	border-bottom: 60px groove rgba(171,171,171,1.00);
+	border-radius: 0px;
+	max-width: 750px;
+	border-top: 30px solid rgba(123,123,123,1.00);
+}
+
+
+
+#rapper {
+	padding-left: 0px;
+	padding-right: 0px;
+	width: 75%;
+	margin-left: auto;
+	margin-right: auto;
+	max-width: 1080px;
+}
+.right.carousel-control {
+	background-image: -webkit-linear-gradient(270deg,rgba(255,255,255,0.00) 100%,rgba(255,0,0,1.00) 100%);
+	background-image: -moz-linear-gradient(270deg,rgba(255,255,255,0.00) 100%,rgba(255,0,0,1.00) 100%);
+	background-image: -o-linear-gradient(270deg,rgba(255,255,255,0.00) 100%,rgba(255,0,0,1.00) 100%);
+	background-image: linear-gradient(180deg,rgba(255,255,255,0.00) 100%,rgba(255,0,0,1.00) 100%);
+	height: 35%;
+	margin-top: auto;
+	margin-bottom: auto;
+}
+.left.carousel-control {
+	background-image: -webkit-linear-gradient(270deg,rgba(255,255,255,0.00) 100%,rgba(255,0,0,1.00) 100%);
+	background-image: -moz-linear-gradient(270deg,rgba(255,255,255,0.00) 100%,rgba(255,0,0,1.00) 100%);
+	background-image: -o-linear-gradient(270deg,rgba(255,255,255,0.00) 100%,rgba(255,0,0,1.00) 100%);
+	background-image: -o-linear-gradient(270deg,rgba(255,255,255,0.00) 100%,rgba(255,0,0,1.00) 100%);
+	background-image: linear-gradient(180deg,rgba(255,255,255,0.00) 100%,rgba(255,0,0,1.00) 100%);
+	height: 35%;
+	margin-top: auto;
+	margin-bottom: auto;
+}
